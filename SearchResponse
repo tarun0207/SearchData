@@ -1,0 +1,452 @@
+{
+    "Prop6Keywords": "'bank'",
+    "Prop27Keywords": null,
+    "MarketArea": "marketarea",
+    "MarketFacet": "marketarea|privat",
+    "SearchFilterTypeId": "searchfiltertypeid",
+    "SearchString": "bank",
+    "SearchSuggestion": null,
+    "SearchFilterFacets": [
+        {
+            "Id": "{2EAEA116-314F-48D1-AEEE-B2C3866727DA}",
+            "Name": "Produkt  (40)",
+            "FilterDisplayName": null,
+            "Selected": false,
+            "Hidden": false,
+            "Color": null,
+            "ColorText": null,
+            "HereYouCan": null,
+            "Description": null,
+            "Items": [
+                {
+                    "Id": "bef7d6c944a840c780b9252317f102bc",
+                    "Name": "Kort (6)",
+                    "FilterDisplayName": null,
+                    "Selected": false,
+                    "Hidden": false,
+                    "Color": null,
+                    "ColorText": null,
+                    "HereYouCan": null,
+                    "Description": null,
+                    "Items": null
+                },
+                {
+                    "Id": "ff42ee99450c49b58d752ffc4cc454a3",
+                    "Name": "Lån (25)",
+                    "FilterDisplayName": null,
+                    "Selected": false,
+                    "Hidden": false,
+                    "Color": null,
+                    "ColorText": null,
+                    "HereYouCan": null,
+                    "Description": null,
+                    "Items": null
+                },
+                {
+                    "Id": "03ddc40d4a08485c859cfa7d69b60f05",
+                    "Name": "Pension (9)",
+                    "FilterDisplayName": null,
+                    "Selected": false,
+                    "Hidden": false,
+                    "Color": null,
+                    "ColorText": null,
+                    "HereYouCan": null,
+                    "Description": null,
+                    "Items": null
+                }
+            ]
+        },
+        {
+            "Id": "{1C261E5A-EA4E-45AE-8B73-2762C07B05AA}",
+            "Name": "Guides & Artikler (122)",
+            "FilterDisplayName": null,
+            "Selected": false,
+            "Hidden": false,
+            "Color": null,
+            "ColorText": null,
+            "HereYouCan": null,
+            "Description": null,
+            "Items": [
+                {
+                    "Id": "fa37f02a754d4a90abb64553fb6dbf24",
+                    "Name": "I skal flytte sammen (5)",
+                    "FilterDisplayName": null,
+                    "Selected": false,
+                    "Hidden": false,
+                    "Color": null,
+                    "ColorText": null,
+                    "HereYouCan": null,
+                    "Description": null,
+                    "Items": null
+                },
+                {
+                    "Id": "c1115e429aae441aa07acb86fc1a67ce",
+                    "Name": "Du skal købe bolig (25)",
+                    "FilterDisplayName": null,
+                    "Selected": false,
+                    "Hidden": false,
+                    "Color": null,
+                    "ColorText": null,
+                    "HereYouCan": null,
+                    "Description": null,
+                    "Items": null
+                },
+                {
+                    "Id": "6d369c35fee843b4948c05c29bc2ccd0",
+                    "Name": "Du skal skilles (8)",
+                    "FilterDisplayName": null,
+                    "Selected": false,
+                    "Hidden": false,
+                    "Color": null,
+                    "ColorText": null,
+                    "HereYouCan": null,
+                    "Description": null,
+                    "Items": null
+                },
+                {
+                    "Id": "0f0624623a2a439ca767c96d1f211372",
+                    "Name": "Du skal giftes (5)",
+                    "FilterDisplayName": null,
+                    "Selected": false,
+                    "Hidden": false,
+                    "Color": null,
+                    "ColorText": null,
+                    "HereYouCan": null,
+                    "Description": null,
+                    "Items": null
+                },
+                {
+                    "Id": "c1d5283f4f7546d59fb54795db3580dc",
+                    "Name": "Du skal have barn (8)",
+                    "FilterDisplayName": null,
+                    "Selected": false,
+                    "Hidden": false,
+                    "Color": null,
+                    "ColorText": null,
+                    "HereYouCan": null,
+                    "Description": null,
+                    "Items": null
+                },
+                {
+                    "Id": "82b91b43f42d4c96bc2e3ea34de7369f",
+                    "Name": "Du har fået job (9)",
+                    "FilterDisplayName": null,
+                    "Selected": false,
+                    "Hidden": false,
+                    "Color": null,
+                    "ColorText": null,
+                    "HereYouCan": null,
+                    "Description": null,
+                    "Items": null
+                },
+                {
+                    "Id": "c00586dba75b42b7b2a6b36eaf288534",
+                    "Name": "Du har mistet din nærmeste (4)",
+                    "FilterDisplayName": null,
+                    "Selected": false,
+                    "Hidden": false,
+                    "Color": null,
+                    "ColorText": null,
+                    "HereYouCan": null,
+                    "Description": null,
+                    "Items": null
+                },
+                {
+                    "Id": "8f3d1f03b696472ea5610c5f553fba20",
+                    "Name": "Du skal flytte til udlandet (5)",
+                    "FilterDisplayName": null,
+                    "Selected": false,
+                    "Hidden": false,
+                    "Color": null,
+                    "ColorText": null,
+                    "HereYouCan": null,
+                    "Description": null,
+                    "Items": null
+                },
+                {
+                    "Id": "12042c5be1fb4dcc9a1c90cc3e4c2dff",
+                    "Name": "Du skal flytte hjemmefra (10)",
+                    "FilterDisplayName": null,
+                    "Selected": false,
+                    "Hidden": false,
+                    "Color": null,
+                    "ColorText": null,
+                    "HereYouCan": null,
+                    "Description": null,
+                    "Items": null
+                },
+                {
+                    "Id": "4440db958b8b4dc09094bcc359ee8bdb",
+                    "Name": "Du skal studere (9)",
+                    "FilterDisplayName": null,
+                    "Selected": false,
+                    "Hidden": false,
+                    "Color": null,
+                    "ColorText": null,
+                    "HereYouCan": null,
+                    "Description": null,
+                    "Items": null
+                },
+                {
+                    "Id": "6a5c629a6b2a403b8eef522755b83208",
+                    "Name": "Du skal pensioneres (11)",
+                    "FilterDisplayName": null,
+                    "Selected": false,
+                    "Hidden": false,
+                    "Color": null,
+                    "ColorText": null,
+                    "HereYouCan": null,
+                    "Description": null,
+                    "Items": null
+                },
+                {
+                    "Id": "92e7ee5bfb8e41c6a3775cd06255655d",
+                    "Name": "Dit barn skal flytte (7)",
+                    "FilterDisplayName": null,
+                    "Selected": false,
+                    "Hidden": false,
+                    "Color": null,
+                    "ColorText": null,
+                    "HereYouCan": null,
+                    "Description": null,
+                    "Items": null
+                },
+                {
+                    "Id": "75feeb5270524fe6bbd89027473ce1ed",
+                    "Name": "Du har fået nyt job (6)",
+                    "FilterDisplayName": null,
+                    "Selected": false,
+                    "Hidden": false,
+                    "Color": null,
+                    "ColorText": null,
+                    "HereYouCan": null,
+                    "Description": null,
+                    "Items": null
+                },
+                {
+                    "Id": "9ea5e32732dc454a98388f2a8c9985c9",
+                    "Name": "Du har mistet dit job (6)",
+                    "FilterDisplayName": null,
+                    "Selected": false,
+                    "Hidden": false,
+                    "Color": null,
+                    "ColorText": null,
+                    "HereYouCan": null,
+                    "Description": null,
+                    "Items": null
+                },
+                {
+                    "Id": "83ef585d60dc4b878ca1bc57ba3d295a",
+                    "Name": "Du er blevet alvorlig syg (4)",
+                    "FilterDisplayName": null,
+                    "Selected": false,
+                    "Hidden": false,
+                    "Color": null,
+                    "ColorText": null,
+                    "HereYouCan": null,
+                    "Description": null,
+                    "Items": null
+                }
+            ]
+        },
+        {
+            "Id": "{1ED0C1B1-6E18-42C8-93C0-4355C8AA07FB}",
+            "Name": "Kundeservice & Hjælp (17)",
+            "FilterDisplayName": null,
+            "Selected": false,
+            "Hidden": false,
+            "Color": null,
+            "ColorText": null,
+            "HereYouCan": null,
+            "Description": null,
+            "Items": [
+                {
+                    "Id": "3b6b35ab60b44f738d3dca99a8d4fab4",
+                    "Name": "Kundeservice & Hjælp (17)",
+                    "FilterDisplayName": null,
+                    "Selected": false,
+                    "Hidden": true,
+                    "Color": null,
+                    "ColorText": null,
+                    "HereYouCan": null,
+                    "Description": null,
+                    "Items": null
+                }
+            ]
+        },
+        {
+            "Id": "{9573B808-C0BA-4628-86B8-88D532549552}",
+            "Name": "Værktøjer (2)",
+            "FilterDisplayName": null,
+            "Selected": false,
+            "Hidden": false,
+            "Color": null,
+            "ColorText": null,
+            "HereYouCan": null,
+            "Description": null,
+            "Items": [
+                {
+                    "Id": "3e87892267324688b8a178ec778c21ab",
+                    "Name": "Værktøjer (2)",
+                    "FilterDisplayName": null,
+                    "Selected": false,
+                    "Hidden": true,
+                    "Color": null,
+                    "ColorText": null,
+                    "HereYouCan": null,
+                    "Description": null,
+                    "Items": null
+                }
+            ]
+        },
+        {
+            "Id": "{70ABC7AF-76C0-4124-B05E-6469AC2CC108}",
+            "Name": "Andet (2)",
+            "FilterDisplayName": null,
+            "Selected": false,
+            "Hidden": false,
+            "Color": null,
+            "ColorText": null,
+            "HereYouCan": null,
+            "Description": null,
+            "Items": [
+                {
+                    "Id": "ac994fbcaea74bdaa6b8f25f481660ce",
+                    "Name": "Andet (2)",
+                    "FilterDisplayName": null,
+                    "Selected": false,
+                    "Hidden": true,
+                    "Color": null,
+                    "ColorText": null,
+                    "HereYouCan": null,
+                    "Description": null,
+                    "Items": null
+                }
+            ]
+        }
+    ],
+    "MarketFacetItems": [
+        {
+            "Id": "privat",
+            "Name": "privat (884)",
+            "FilterDisplayName": null,
+            "Selected": true,
+            "Hidden": false,
+            "Color": null,
+            "ColorText": null,
+            "HereYouCan": null,
+            "Description": null,
+            "Items": null
+        },
+        {
+            "Id": "erhverv",
+            "Name": "erhverv (268)",
+            "FilterDisplayName": null,
+            "Selected": false,
+            "Hidden": false,
+            "Color": null,
+            "ColorText": null,
+            "HereYouCan": null,
+            "Description": null,
+            "Items": null
+        },
+        {
+            "Id": "private banking",
+            "Name": "private banking (143)",
+            "FilterDisplayName": null,
+            "Selected": false,
+            "Hidden": false,
+            "Color": null,
+            "ColorText": null,
+            "HereYouCan": null,
+            "Description": null,
+            "Items": null
+        },
+        {
+            "Id": "skb/obs",
+            "Name": "skb/obs (9)",
+            "FilterDisplayName": null,
+            "Selected": false,
+            "Hidden": false,
+            "Color": null,
+            "ColorText": null,
+            "HereYouCan": null,
+            "Description": null,
+            "Items": null
+        }
+    ],
+    "Results": [
+        {
+            "Recommended": "Anbefalet",
+            "Type": "Find hjælp",
+            "Header": "Indsigelse",
+            "Text": "Er dit kort misbrugt? Få hjælp til at gøre indsigelse, hvis du opdager korttransaktioner på din konto, som du ikke kan genkende eller acceptere.",
+            "Link": "/privat/find-hjaelp/kort/indsigelse"
+        },
+        {
+            "Recommended": "Anbefalet",
+            "Type": "Generel",
+            "Header": "Bank for studerende",
+            "Text": "Er du studerende mellem 18-32 år, kan du få en bankpakke til 0 kr. med alt, hvad du behøver i den daglige økonomi.",
+            "Link": "/privat/best-bets/bank-for-studerende"
+        },
+        {
+            "Recommended": "Anbefalet",
+            "Type": "Generel",
+            "Header": "Lommepenge",
+            "Text": "Giv dit barn lommepenge på en nem måde. Barnet får en lommepenge-app og et kort, og du kan overføre penge og styre forbruget i mobilbanken.",
+            "Link": "/privat/best-bets/lommepenge"
+        },
+        {
+            "Recommended": "Anbefalet",
+            "Type": "Generel",
+            "Header": "Børn",
+            "Text": "Når dit barn vokser, begynder snakken om lommepenge, sparebøsse, en konto med barnets egne penge. Her kan du se, hvad vi kan tilbyde dit barn.",
+            "Link": "/privat/best-bets/boern"
+        },
+        {
+            "Recommended": "Anbefalet",
+            "Type": "Generel",
+            "Header": "Ny kunde",
+            "Text": "Vil du have mest ud af dine penge? Så bliv kunde hos Danske Bank. Vi tager os af alle dine finansielle behov. Se hvad du får her.",
+            "Link": "/privat/best-bets/ny-kunde"
+        },
+        {
+            "Recommended": "Anbefalet",
+            "Type": "Generel",
+            "Header": "Webinar",
+            "Text": "Deltag i et webinar hos os, og bliv klogere på, hvordan du kan få mere ud af din økonomi. Et webinar varer ca. 30 minutter.",
+            "Link": "/privat/best-bets/webinar"
+        },
+        {
+            "Recommended": "Anbefalet",
+            "Type": "Generel",
+            "Header": "Mobilbank",
+            "Text": "Med mobilbanken kan du se din saldo, overføre penge, betale regninger og meget mere – når og hvor det passer dig.",
+            "Link": "/privat/best-bets/mobilbank"
+        },
+        {
+            "Recommended": "Anbefalet",
+            "Type": "Generel",
+            "Header": "70118040",
+            "Text": "Har du spørgsmål? Vi er klar til at svare på dine spørgsmål. Ring til os.",
+            "Link": "/privat/best-bets/70118040"
+        },
+        {
+            "Recommended": "Anbefalet",
+            "Type": "Produkt",
+            "Header": "Børneopsparing",
+            "Text": "En børneopsparing kan oprettes, når barnet er 0-14 år. Indsæt op til 72.000 kr. og få skattefrie renter og afkast i opsparingsperioden.",
+            "Link": "/privat/produkter/konti/boerneopsparing"
+        },
+        {
+            "Recommended": "Anbefalet",
+            "Type": "Produkt",
+            "Header": "Studerende",
+            "Text": "Er du studerende og under 32 år, kan du få bank til din daglige økonomi for 0 kr.",
+            "Link": "/privat/produkter/unge-og-studerende/studerende"
+        }
+    ],
+    "Offset": 0,
+    "TotalCount": 884
+}
